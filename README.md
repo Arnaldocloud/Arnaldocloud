@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Arnaldo Romero</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Venezuela</h3>
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=arnaldocloud&label=Profile%20views&color=0e75b6&style=flat" alt="Arnaldocloud" /> </p>
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=Arnaldocloud&label=Profile%20views&color=0e75b6&style=flat" alt="Arnaldocloud" /> </p>
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-tropico"><img src="https://github-profile-tropico.vercel.app/?username=arnaldocloud" alt="arnaldocloud" /></ a> </p>
 
